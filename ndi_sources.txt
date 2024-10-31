@@ -1,0 +1,4 @@
+Nombre NDI: DESKTOP-5HJJ5LU (Remote Connection 1)
+Adress: ndi-app:DESKTOP-5HJJ5LU%20(Remote%20Connection%201)
+URL: ndi-app:DESKTOP-5HJJ5LU%20(Remote%20Connection%201)
+
